@@ -69,6 +69,10 @@ html {
     margin: auto;
     text-align: center;
   }
+  .left
+  {
+    text-align: right;
+  }
   .padded{
       padding-left: .5em;
   }
@@ -76,3 +80,8 @@ html {
     border: 10px solid rgb(119, 159, 196);
     border-radius: 5px;
   }
+.brand
+{
+  height: 5em;
+  width: 5em;
+}
