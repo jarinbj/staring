@@ -6,7 +6,7 @@
   }
 
   .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
-    color: #0d0533;
+    color: #e3ddff;
   }
   
   .navbar-dark .navbar-nav .nav-link {
@@ -71,4 +71,8 @@ html {
   }
   .padded{
       padding-left: .5em;
+  }
+  hr {
+    border: 10px solid rgb(119, 159, 196);
+    border-radius: 5px;
   }
